@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: course-api-data
+Implementation-Version: 1.0
+Built-By: dev
+Implementation-Vendor-Id: org.javaCoder
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/course-api-data
+Created-By: Maven Integration for Eclipse
+
