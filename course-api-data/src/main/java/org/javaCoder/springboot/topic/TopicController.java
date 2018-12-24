@@ -43,8 +43,5 @@ public class TopicController {
 	public void deleteTopic(@PathVariable("id") String id) {
 		topicService.deleteTopic(id);
 	}
-	
-	
-	
 
 }
